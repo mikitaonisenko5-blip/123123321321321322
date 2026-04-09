@@ -17,7 +17,7 @@
 	flex-direction: column;
 	justify-content: end;
 	text-align: center;	
-	background:url(img/сичень.jpg);
+	background:url(../img/сичень.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
@@ -27,7 +27,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/лютий.jpg);
+	background:url(../img/лютий.jpg);
 	background-repeat: no-repeat;
     background-size: cover;
 
@@ -37,7 +37,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/март.jpg);
+	background:url(../img/март.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
@@ -46,7 +46,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/апрель.jpg);
+	background:url(../img/апрель.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
@@ -55,7 +55,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/май.jpg);
+	background:url(../img/май.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
@@ -64,7 +64,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/июнь.jpg);
+	background:url(../img/июнь.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
@@ -73,7 +73,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/июль.jpg);
+	background:url(../img/июль.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 }
@@ -81,7 +81,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/август.jpg);
+	background:url(../img/август.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
@@ -90,7 +90,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/сентябирь.jpg);
+	background:url(../img/сентябирь.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
@@ -99,7 +99,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/октябирь.jpg);
+	background:url(../img/октябирь.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
@@ -108,7 +108,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/ноябирь.jpg);
+	background:url(../img/ноябирь.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
@@ -117,7 +117,7 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;	
-	background:url(img/декабирь.jpg);
+	background:url(../img/декабирь.jpg);
 	background-repeat: no-repeat;
     background-size: cover; 
 
